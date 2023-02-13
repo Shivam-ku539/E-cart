@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Shivam"
+    },
+    {
+      "name": "Uday Pratap",
+      "id": 4
+    },
+    {
+      "name": "Pranav",
+      "id": 7
+    },
+    {
+      "name": "om",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Rahul"
+    }
+  ],
+  "policylist": [
+    {
+      "policyname": "Policy1",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "id": 1
+    },
+    {
+      "policyname": "policy2",
+      "policyamount": "30000",
+      "policylimit": "40000",
+      "id": 4
+    },
+    {
+      "policyname": "policy3",
+      "policyamount": "40000",
+      "policylimit": "50000",
+      "id": 5
+    },
+    {
+      "policyname": "policy4",
+      "policyamount": "50000",
+      "policylimit": "60000",
+      "id": 6
+    },
+    {
+      "policyname": "policy5",
+      "policyamount": "60000",
+      "policylimit": "70000",
+      "id": 7
+    },
+    {
+      "policyname": "gbfgn",
+      "policyamount": "6577",
+      "policylimit": "6758",
+      "id": 8
+    }
+  ]
+}

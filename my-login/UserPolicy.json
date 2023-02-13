@@ -1,0 +1,64 @@
+{
+  "UserPolicy": [
+    {
+      "username": "Uday Pratap",
+      "policyname": "Policy1",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "status": "approved",
+      "claimamount": "675",
+      "claimstatus": "claim",
+      "id": 1
+    },
+    {
+      "username": "Shivam",
+      "policyname": "policy2",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "status": "approved",
+      "claimamount": "1234",
+      "claimstatus": "claim",
+      "id": 2
+    },
+    {
+      "username": "om",
+      "policyname": "policy4",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "status": "rejected",
+      "claimamount": "7578",
+      "claimstatus": "claim",
+      "id": 3
+    },
+    {
+      "username": "Uday Pratap",
+      "policyname": "Policy1",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "status": "rejected",
+      "claimamount": "6437",
+      "claimstatus": "claim",
+      "id": 4
+    },
+    {
+      "username": "Rahul",
+      "policyname": "policy5",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "status": "rejected",
+      "claimamount": "675",
+      "claimstatus": "claim",
+      "id": 5
+    },
+    {
+      "username": "Pranav",
+      "policyname": "policy2",
+      "policyamount": "10000",
+      "policylimit": "20000",
+      "status": "",
+      "claimamount": "",
+      "claimstatus": "",
+      "id": 6
+    }
+  ]
+}
